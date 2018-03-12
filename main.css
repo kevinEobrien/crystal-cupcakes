@@ -108,6 +108,9 @@ a{
         display: flex;
         flex-flow: column;
     }
+    .pics img{
+        width: 60vw;
+    }
 }
 p{
     font-family: "Pacifico";
