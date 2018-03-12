@@ -104,6 +104,10 @@ a{
         font-size: 3rem;
         margin: 0 0 0 2rem;
     }
+    .pics{
+        display: flex;
+        flex-flow: column;
+    }
 }
 p{
     font-family: "Pacifico";
